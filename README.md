@@ -1,5 +1,10 @@
 # aplikasi_makanan
+#Halaman_Utama
 ![image](https://user-images.githubusercontent.com/58182736/176432855-039985fc-897a-4f41-ad4c-42bc3c6f31de.png)
+
+#Detail_Resep
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/58182736/176440441-45fe456d-c7f9-46cb-9823-2b92cc8d605b.png">
+
 
 A new Flutter project.
 
