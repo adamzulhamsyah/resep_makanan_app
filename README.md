@@ -1,4 +1,5 @@
 # aplikasi_makanan
+![image](https://user-images.githubusercontent.com/58182736/176432855-039985fc-897a-4f41-ad4c-42bc3c6f31de.png)
 
 A new Flutter project.
 
